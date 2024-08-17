@@ -1,0 +1,15 @@
+# Ignore .env file containing sensitive information
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore captured screenshots
+captured_screenshot.png
+
+# Ignore any log files
+*.log
+
+# Ignore virtual environment
+venv/
